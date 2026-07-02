@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+<id>zero.lliurex.gambas3</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>Gambas 3</name>
+<name xml:lang="ca">Gambas 3</name>
+<name xml:lang="es">Gambas 3</name>
+<summary>IDE for Basic</summary>
+<summary xml:lang="es">IDE para Basic</summary>
+<summary xml:lang="ca">IDE per a Basic</summary>
+<description>
+<p>Gambas3 is the acronym for Gambas Almost Means BASic, is a free development environment and a full powerful object-oriented language and development platform based on a Basic interpreter with optional just-in-time compilation, as easy as Visual Basic™ was.</p>
+<p xml:lang="es">Gambas3 es el acrónimo en inglés de Gambas Almost Means BASic, es tanto un entorno de desarrollo como un lenguaje de programación orientado a objetos basado en un intérprete de BASIC con capacidad de compilación JIT, tan sencillo como lo era Visual Basic™.</p>
+<p xml:lang="ca">Gambas3 es l'acrónim en anglés de Gambas Almost Means BASic, es tant un entorn de desenvolupament com un llenguatge de programació orientada a objectes basat en un intérpret de BASIC amb capacidat de compilació JIT, tan sentzill com era Visual Basic™.</p>
+</description>
+<categories>
+<category>LliureX</category>
+<category>Development</category>
+</categories>
+<icon type="stock">gambas3</icon>
+<keywords>
+<keyword>basic</keyword>
+<keyword>vb6</keyword>
+<keyword>IDE</keyword>
+</keywords>
+<keywords xml:lang="ca">
+<keyword>programació</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>programación</keyword>
+</keywords>
+</component>

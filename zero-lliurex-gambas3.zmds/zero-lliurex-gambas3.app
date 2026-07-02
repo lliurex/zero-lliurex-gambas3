@@ -1,0 +1,15 @@
+Name=zero-lliurex-gambas3
+Name[es]=Instalador de gambas3
+Name[en]=gambas3 installer
+Name[ca_ES]=Instal·lador de gambas3
+Name[ca@valencia]=Instal·lador de gambas3
+Name[qcv]=Instal·lador de gambas3
+Comment=Gambas Almost Means BASic. IDE for Basic
+Comment[es]=Gambas Almost Means BASic, un entorno de desarrollo para Basic
+Comment[ca]=Gambas Almost Means BASic, un entorn de desenvolupament per Basic
+Icon=zero-lliurex-gambas3
+Category=Software
+ScriptPath=zero-lliurex-gambas3.zmd
+Using=pkexec
+Locks=zero-lliurex-gambas3
+Groups=admins;sudo;teachers

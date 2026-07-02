@@ -1,0 +1,8 @@
+{
+	"type":"apt",
+	"pkg_list": [{"name":"gambas3","custom_name":"gambas3: Gambas Almost Means BASic, an IDE for basic","custom_icon":"gambas3.png"}],
+	"repository": [{"url":"deb http://archive.ubuntu.com/ubuntu/ noble main multiverse restricted universe"},{"url":"deb http://archive.ubuntu.com/ubuntu/ noble-updates main multiverse restricted universe"},{"url":"deb http://archive.ubuntu.com/ubuntu/ noble-security main multiverse restricted universe"}],  
+	"script": {"name":"/usr/share/zero-lliurex-gambas3/gambas3_script", "remove":true},
+	"custom_icon_path":"/usr/share/zero-lliurex-gambas3/",
+	"zomando":"zero-lliurex-gambas3"
+	}
